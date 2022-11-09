@@ -1,6 +1,6 @@
 # Unidades-Unity
 <p align="center">
-    <img src="[https://jobbank.dk/media-data/company-branding/53985.jpg](https://techcouver.com/wp-content/uploads/2020/10/unity.jpeg)" alt="Logo" width=1429 height=753>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechcouver.com%2F2020%2F10%2F08%2Fvirtual-vancouver-bc-tech-job-fair%2F&psig=AOvVaw3mjTINZQ-ceHE9_4mu17Ob&ust=1668118207697000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCnweeOovsCFQAAAAAdAAAAABA3" alt="Logo" width=1429 height=753>
 </p>
 
 ## Contenido
