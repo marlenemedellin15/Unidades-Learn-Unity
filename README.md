@@ -1,6 +1,6 @@
 # Unidades-Unity
 <p align="center">
-    <img src="https://jobbank.dk/media-data/company-branding/53985.jpg" alt="Logo" width=1000 height=250>
+    <img src="https://jobbank.dk/media-data/company-branding/53985.jpg" alt="Logo" width=1500 height=344>
 </p>
 
 ## Contenido
