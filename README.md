@@ -13,16 +13,21 @@
 
 # Introducción 
 
-- **Nombre del proyecto:** Project Chronos
+- **Nombre del proyecto:** Project Chronos.
+
 - **Plataforma, Género, Clasificación, Escenario:** 
     - Plataforma: Movil - Desktop.
     - Género: Survival Horror con caracteristicas de FPS.
-    - Clasificación: Clasificación "M" Mature Pegi 16+
+    - Clasificación: Clasificación "M" Mature Pegi 16+.
+    
 - **Objetivo:** Lograr sobrevivir dentro de los escenarios al llegar a otras áreas o derrotar a los enemigos que se presenten para poder terminar la sección y continuar con la historia.
+
 - **Historia:** Seo-Hae se encuentra en un mundo habitado en su mayor parte por criaturas amorfas que solo buscan alimentarse de humanos, por otro lado se tienen diversos grupos humanos sin embargo estos no son del todo amigables y no dudarán en atacar a todo aquel que no pertenezca a su facción. El objetivo principal de Seo-Hae es encontrar la manera de viajar al pasado para evitar un atentado contra una persona que aún no sabe quien es, pero cuya muerte comenzo con una guerra nuclear que llevo al estado actual de la sociedad, para lograr esto requiere hacer la exploración de diversos entornos de su actual mundo con la finalidad de encontrar información que la ayude a encontrar a esta persona.
+
 - **Personajes:** 
     - Jugador principal (Personaje principal).
     - Enemigos (Diversos monstruos que serán los enemigos y se presentarán de manera aleatoria según la sección del escenario).
+    
 - **Reglas de Juego:** 
     - Al chocar con un enemigo se recibe daño y se reduce la vida del jugador.
     - Al recibir golpes o disparos de un enemigo se reduce la vida del jugador.
