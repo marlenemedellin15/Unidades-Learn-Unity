@@ -13,7 +13,7 @@
 
 # Introducción 
 
-- **Nombre del proyecto:** Project Chronos.
+- **Nombre del proyecto:** Project Kronos.
 
 - **Plataforma, Género, Clasificación, Escenario:** 
     - Plataforma: Movil - Desktop.
