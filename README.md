@@ -115,11 +115,6 @@
 
 [Unidad 5 - Quiz 5](https://drive.google.com/drive/folders/1NywNKu2an1nBdPFrQ7wiXedkfzTrQEM1?usp=sharing)
 
-
-# Planificación
-
-[Planificacion]()
-
 # Autores
 
 **Medellin González Marlene and Martínez Mejía Marc Antony**
