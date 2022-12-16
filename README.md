@@ -35,6 +35,10 @@
     - Para completar un nivel se requiere eliminar a todos los enemigos y cumplir los acertijos que puedan existir dentro de este.
     - Si el jugador recibe daño constantemente muere.
 
+- **Código fuente del juego y deploy:**
+    [Project Chronos](https://drive.google.com/drive/folders/1k5Sha_oF3jQ-XFACOYDEu8BG7Ehl5XM2?usp=share_link)
+
+
 # Código Fuente
 
 **Unidad 1**
