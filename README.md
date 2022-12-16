@@ -36,9 +36,9 @@
     - Si el jugador recibe daño constantemente muere.
 
 - **Código fuente del juego y deploy:**
-    [Link de visualización y descarga](https://drive.google.com/drive/folders/1k5Sha_oF3jQ-XFACOYDEu8BG7Ehl5XM2?usp=share_link)
-
-
+    - [Link de visualización y descarga deploy](https://drive.google.com/drive/folders/1k5Sha_oF3jQ-XFACOYDEu8BG7Ehl5XM2?usp=share_link)
+    - [Link de visualización y descarga vFinal Project Chronos](https://drive.google.com/drive/folders/1Y7bvnYDWI-XMXJB2btqUtd2GCR1ak42o?usp=share_link)
+    
 # Código Fuente
 
 **Unidad 1**
