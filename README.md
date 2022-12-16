@@ -30,9 +30,9 @@
     
 - **Reglas de Juego:** 
     - Al chocar con un enemigo se recibe daño y se reduce la vida del jugador.
-    - Al recibir golpes o disparos de un enemigo se reduce la vida del jugador.
-    - La vida del jugador se incrementará si este no recibe daño durante determinado tiempo.
-    - Para completar un nivel se requiere eliminar a todos los enemigos y cumplir los acertijos que puedan existir dentro de este.
+    - Al recibir golpes de un enemigo se reduce la vida del jugador.
+    - La vida del jugador se incrementará si este toma los botiquines dentro del mapa.
+    - Para completar un nivel se requiere eliminar a todos los enemigos dentro de este.
     - Si el jugador recibe daño constantemente muere.
 
 - **Código fuente del juego y deploy:**
